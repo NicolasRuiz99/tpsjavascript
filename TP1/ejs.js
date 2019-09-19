@@ -1,9 +1,7 @@
 // EJ1
 
-
 var edad = 20;
 console.log("Tengo " + edad + " años")
-
 
 // EJ2
 
